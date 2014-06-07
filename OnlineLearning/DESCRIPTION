@@ -1,0 +1,13 @@
+Package: OnlineLearning
+Type: Package
+Title: A online learning package
+Version: 0.1-1
+Date: 2013-02-04
+Author: Yoshiaki AMANO
+Maintainer: Yoshiaki AMANO <yamano357@gmail.com>
+Description: This package is implement a online learning algorithm (PA, AROW) by reference class methods.
+License: GPL-2
+Depends: methods, Matrix
+Imports: compiler, BBmisc, iterators, kernlab
+Collate: 'OnlineLearning.R'
+Packaged: 2013-02-04 10:03:16 UTC; amanoyo
